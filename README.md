@@ -1,11 +1,3 @@
-<div align="center">
-
-# 👋 Hi, I'm Hawon
-
-</div>
-
----
-
 ## 🧠 About Me
 
 - AI + Backend 기반 서비스 개발에 관심이 있습니다.
