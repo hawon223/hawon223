@@ -25,13 +25,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
----
-
-## 🎯 Goal
-
-- AI와 Backend를 연결하여 실제 사용되는 서비스를 설계하고 운영하는 엔지니어 입니다.
-
 ---
 
 ## 📫 Contact
